@@ -1,0 +1,276 @@
+C:\Users\singh.sanjay\source\repos\Src\EmployeeManagement\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\singh.sanjay\source\repos\Src\EmployeeManagement\bin\Debug\net8.0\appsettings.json
+C:\Users\singh.sanjay\source\repos\Src\EmployeeManagement\bin\Debug\net8.0\EmployeeManagement.exe
+C:\Users\singh.sanjay\source\repos\Src\EmployeeManagement\bin\Debug\net8.0\EmployeeManagement.deps.json
+C:\Users\singh.sanjay\source\repos\Src\EmployeeManagement\bin\Debug\net8.0\EmployeeManagement.runtimeconfig.json
+C:\Users\singh.sanjay\source\repos\Src\EmployeeManagement\bin\Debug\net8.0\EmployeeManagement.dll
+C:\Users\singh.sanjay\source\repos\Src\EmployeeManagement\bin\Debug\net8.0\EmployeeManagement.pdb
+C:\Users\singh.sanjay\source\repos\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\singh.sanjay\source\repos\Src\EmployeeManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\singh.sanjay\source\repos\Src\EmployeeManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\singh.sanjay\source\repos\Src\EmployeeManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\singh.sanjay\source\repos\Src\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.csproj.AssemblyReference.cache
+C:\Users\singh.sanjay\source\repos\Src\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\singh.sanjay\source\repos\Src\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.AssemblyInfoInputs.cache
+C:\Users\singh.sanjay\source\repos\Src\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.AssemblyInfo.cs
+C:\Users\singh.sanjay\source\repos\Src\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.csproj.CoreCompileInputs.cache
+C:\Users\singh.sanjay\source\repos\Src\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\singh.sanjay\source\repos\Src\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\singh.sanjay\source\repos\Src\EmployeeManagement\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\singh.sanjay\source\repos\Src\EmployeeManagement\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\singh.sanjay\source\repos\Src\EmployeeManagement\obj\Debug\net8.0\staticwebassets\msbuild.EmployeeManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\singh.sanjay\source\repos\Src\EmployeeManagement\obj\Debug\net8.0\staticwebassets\msbuild.build.EmployeeManagement.props
+C:\Users\singh.sanjay\source\repos\Src\EmployeeManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeManagement.props
+C:\Users\singh.sanjay\source\repos\Src\EmployeeManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EmployeeManagement.props
+C:\Users\singh.sanjay\source\repos\Src\EmployeeManagement\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\singh.sanjay\source\repos\Src\EmployeeManagement\obj\Debug\net8.0\scopedcss\bundle\EmployeeManagement.styles.css
+C:\Users\singh.sanjay\source\repos\Src\EmployeeManagement\obj\Debug\net8.0\Employee.61744648.Up2Date
+C:\Users\singh.sanjay\source\repos\Src\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.dll
+C:\Users\singh.sanjay\source\repos\Src\EmployeeManagement\obj\Debug\net8.0\refint\EmployeeManagement.dll
+C:\Users\singh.sanjay\source\repos\Src\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.pdb
+C:\Users\singh.sanjay\source\repos\Src\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.genruntimeconfig.cache
+C:\Users\singh.sanjay\source\repos\Src\EmployeeManagement\obj\Debug\net8.0\ref\EmployeeManagement.dll
+C:\Users\singh.sanjay\source\repos\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\singh.sanjay\source\repos\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\singh.sanjay\source\repos\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\singh.sanjay\source\repos\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\singh.sanjay\source\repos\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\singh.sanjay\source\repos\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\singh.sanjay\source\repos\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\singh.sanjay\source\repos\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\singh.sanjay\source\repos\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\singh.sanjay\source\repos\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\singh.sanjay\source\repos\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\singh.sanjay\source\repos\Src\EmployeeManagement\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\singh.sanjay\source\repos\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\singh.sanjay\source\repos\Src\EmployeeManagement\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\singh.sanjay\source\repos\Src\EmployeeManagement\bin\Debug\net8.0\Serilog.dll
+C:\Users\singh.sanjay\source\repos\Src\EmployeeManagement\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\singh.sanjay\source\repos\Src\EmployeeManagement\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\singh.sanjay\source\repos\Src\EmployeeManagement\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\singh.sanjay\source\repos\Src\EmployeeManagement\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\singh.sanjay\source\repos\Src\EmployeeManagement\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\singh.sanjay\source\repos\Src\EmployeeManagement\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\singh.sanjay\source\repos\Src\EmployeeManagement\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\singh.sanjay\source\repos\Src\EmployeeManagement\bin\Debug\net8.0\Serilog.Sinks.File.dll
+E:\Demo_project\Src\EmployeeManagement\bin\Debug\net8.0\appsettings.Development.json
+E:\Demo_project\Src\EmployeeManagement\bin\Debug\net8.0\appsettings.json
+E:\Demo_project\Src\EmployeeManagement\bin\Debug\net8.0\EmployeeManagement.exe
+E:\Demo_project\Src\EmployeeManagement\bin\Debug\net8.0\EmployeeManagement.deps.json
+E:\Demo_project\Src\EmployeeManagement\bin\Debug\net8.0\EmployeeManagement.runtimeconfig.json
+E:\Demo_project\Src\EmployeeManagement\bin\Debug\net8.0\EmployeeManagement.dll
+E:\Demo_project\Src\EmployeeManagement\bin\Debug\net8.0\EmployeeManagement.pdb
+E:\Demo_project\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Demo_project\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Demo_project\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\Demo_project\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Demo_project\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Demo_project\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Demo_project\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Demo_project\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Demo_project\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Demo_project\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Demo_project\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Demo_project\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\Demo_project\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Demo_project\Src\EmployeeManagement\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Demo_project\Src\EmployeeManagement\bin\Debug\net8.0\Serilog.dll
+E:\Demo_project\Src\EmployeeManagement\bin\Debug\net8.0\Serilog.AspNetCore.dll
+E:\Demo_project\Src\EmployeeManagement\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+E:\Demo_project\Src\EmployeeManagement\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+E:\Demo_project\Src\EmployeeManagement\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+E:\Demo_project\Src\EmployeeManagement\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+E:\Demo_project\Src\EmployeeManagement\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+E:\Demo_project\Src\EmployeeManagement\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+E:\Demo_project\Src\EmployeeManagement\bin\Debug\net8.0\Serilog.Sinks.File.dll
+E:\Demo_project\Src\EmployeeManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Demo_project\Src\EmployeeManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Demo_project\Src\EmployeeManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Demo_project\Src\EmployeeManagement\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\Demo_project\Src\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.csproj.AssemblyReference.cache
+E:\Demo_project\Src\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\Demo_project\Src\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.AssemblyInfoInputs.cache
+E:\Demo_project\Src\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.AssemblyInfo.cs
+E:\Demo_project\Src\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.csproj.CoreCompileInputs.cache
+E:\Demo_project\Src\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cs
+E:\Demo_project\Src\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
+E:\Demo_project\Src\EmployeeManagement\obj\Debug\net8.0\staticwebassets.build.json
+E:\Demo_project\Src\EmployeeManagement\obj\Debug\net8.0\staticwebassets.development.json
+E:\Demo_project\Src\EmployeeManagement\obj\Debug\net8.0\staticwebassets\msbuild.EmployeeManagement.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Demo_project\Src\EmployeeManagement\obj\Debug\net8.0\staticwebassets\msbuild.build.EmployeeManagement.props
+E:\Demo_project\Src\EmployeeManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeManagement.props
+E:\Demo_project\Src\EmployeeManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EmployeeManagement.props
+E:\Demo_project\Src\EmployeeManagement\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Demo_project\Src\EmployeeManagement\obj\Debug\net8.0\scopedcss\bundle\EmployeeManagement.styles.css
+E:\Demo_project\Src\EmployeeManagement\obj\Debug\net8.0\Employee.61744648.Up2Date
+E:\Demo_project\Src\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.dll
+E:\Demo_project\Src\EmployeeManagement\obj\Debug\net8.0\refint\EmployeeManagement.dll
+E:\Demo_project\Src\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.pdb
+E:\Demo_project\Src\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.genruntimeconfig.cache
+E:\Demo_project\Src\EmployeeManagement\obj\Debug\net8.0\ref\EmployeeManagement.dll
+S:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\appsettings.Development.json
+S:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\appsettings.json
+S:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\EmployeeManagement.exe
+S:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\EmployeeManagement.deps.json
+S:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\EmployeeManagement.runtimeconfig.json
+S:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\EmployeeManagement.dll
+S:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\EmployeeManagement.pdb
+S:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+S:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+S:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+S:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+S:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+S:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+S:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+S:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+S:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+S:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+S:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+S:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+S:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.OpenApi.dll
+S:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\Newtonsoft.Json.dll
+S:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\Serilog.dll
+S:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\Serilog.AspNetCore.dll
+S:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+S:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+S:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+S:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+S:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+S:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+S:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\Serilog.Sinks.File.dll
+S:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+S:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+S:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+S:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+S:\Om Prakash\Src\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.csproj.AssemblyReference.cache
+S:\Om Prakash\Src\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+S:\Om Prakash\Src\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.AssemblyInfoInputs.cache
+S:\Om Prakash\Src\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.AssemblyInfo.cs
+S:\Om Prakash\Src\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.csproj.CoreCompileInputs.cache
+S:\Om Prakash\Src\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cs
+S:\Om Prakash\Src\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
+S:\Om Prakash\Src\EmployeeManagement\obj\Debug\net8.0\staticwebassets.build.json
+S:\Om Prakash\Src\EmployeeManagement\obj\Debug\net8.0\staticwebassets.development.json
+S:\Om Prakash\Src\EmployeeManagement\obj\Debug\net8.0\staticwebassets\msbuild.EmployeeManagement.Microsoft.AspNetCore.StaticWebAssets.props
+S:\Om Prakash\Src\EmployeeManagement\obj\Debug\net8.0\staticwebassets\msbuild.build.EmployeeManagement.props
+S:\Om Prakash\Src\EmployeeManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeManagement.props
+S:\Om Prakash\Src\EmployeeManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EmployeeManagement.props
+S:\Om Prakash\Src\EmployeeManagement\obj\Debug\net8.0\staticwebassets.pack.json
+S:\Om Prakash\Src\EmployeeManagement\obj\Debug\net8.0\scopedcss\bundle\EmployeeManagement.styles.css
+S:\Om Prakash\Src\EmployeeManagement\obj\Debug\net8.0\Employee.61744648.Up2Date
+S:\Om Prakash\Src\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.dll
+S:\Om Prakash\Src\EmployeeManagement\obj\Debug\net8.0\refint\EmployeeManagement.dll
+S:\Om Prakash\Src\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.pdb
+S:\Om Prakash\Src\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.genruntimeconfig.cache
+S:\Om Prakash\Src\EmployeeManagement\obj\Debug\net8.0\ref\EmployeeManagement.dll
+O:\Om Prakash\Src\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.csproj.AssemblyReference.cache
+O:\Om Prakash\Src\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+O:\Om Prakash\Src\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.AssemblyInfoInputs.cache
+O:\Om Prakash\Src\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.AssemblyInfo.cs
+O:\Om Prakash\Src\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.csproj.CoreCompileInputs.cache
+O:\Om Prakash\Src\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cs
+O:\Om Prakash\Src\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
+O:\Om Prakash\Src\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.dll
+O:\Om Prakash\Src\EmployeeManagement\obj\Debug\net8.0\refint\EmployeeManagement.dll
+O:\Om Prakash\Src\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.pdb
+O:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\appsettings.Development.json
+O:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\appsettings.json
+O:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\EmployeeManagement.exe
+O:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\EmployeeManagement.deps.json
+O:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\EmployeeManagement.runtimeconfig.json
+O:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\EmployeeManagement.dll
+O:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\EmployeeManagement.pdb
+O:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+O:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+O:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+O:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+O:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+O:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+O:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+O:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+O:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+O:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+O:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+O:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+O:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.OpenApi.dll
+O:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\Newtonsoft.Json.dll
+O:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\Serilog.dll
+O:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\Serilog.AspNetCore.dll
+O:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+O:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+O:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+O:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+O:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+O:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+O:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\Serilog.Sinks.File.dll
+O:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+O:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+O:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+O:\Om Prakash\Src\EmployeeManagement\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+O:\Om Prakash\Src\EmployeeManagement\obj\Debug\net8.0\staticwebassets.build.json
+O:\Om Prakash\Src\EmployeeManagement\obj\Debug\net8.0\staticwebassets.development.json
+O:\Om Prakash\Src\EmployeeManagement\obj\Debug\net8.0\staticwebassets\msbuild.EmployeeManagement.Microsoft.AspNetCore.StaticWebAssets.props
+O:\Om Prakash\Src\EmployeeManagement\obj\Debug\net8.0\staticwebassets\msbuild.build.EmployeeManagement.props
+O:\Om Prakash\Src\EmployeeManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeManagement.props
+O:\Om Prakash\Src\EmployeeManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EmployeeManagement.props
+O:\Om Prakash\Src\EmployeeManagement\obj\Debug\net8.0\staticwebassets.pack.json
+O:\Om Prakash\Src\EmployeeManagement\obj\Debug\net8.0\scopedcss\bundle\EmployeeManagement.styles.css
+O:\Om Prakash\Src\EmployeeManagement\obj\Debug\net8.0\Employee.61744648.Up2Date
+O:\Om Prakash\Src\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.genruntimeconfig.cache
+O:\Om Prakash\Src\EmployeeManagement\obj\Debug\net8.0\ref\EmployeeManagement.dll
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\bin\Debug\net8.0\appsettings.Development.json
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\bin\Debug\net8.0\appsettings.json
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\bin\Debug\net8.0\EmployeeManagement.exe
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\bin\Debug\net8.0\EmployeeManagement.deps.json
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\bin\Debug\net8.0\EmployeeManagement.runtimeconfig.json
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\bin\Debug\net8.0\EmployeeManagement.dll
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\bin\Debug\net8.0\EmployeeManagement.pdb
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\bin\Debug\net8.0\Serilog.dll
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\bin\Debug\net8.0\Serilog.AspNetCore.dll
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\bin\Debug\net8.0\Serilog.Sinks.File.dll
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.csproj.AssemblyReference.cache
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.AssemblyInfoInputs.cache
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.AssemblyInfo.cs
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.csproj.CoreCompileInputs.cache
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cs
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\obj\Debug\net8.0\staticwebassets.build.json
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\obj\Debug\net8.0\staticwebassets.development.json
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\obj\Debug\net8.0\staticwebassets\msbuild.EmployeeManagement.Microsoft.AspNetCore.StaticWebAssets.props
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\obj\Debug\net8.0\staticwebassets\msbuild.build.EmployeeManagement.props
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeManagement.props
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EmployeeManagement.props
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\obj\Debug\net8.0\staticwebassets.pack.json
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\obj\Debug\net8.0\scopedcss\bundle\EmployeeManagement.styles.css
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\obj\Debug\net8.0\Employee.61744648.Up2Date
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.dll
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\obj\Debug\net8.0\refint\EmployeeManagement.dll
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.pdb
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.genruntimeconfig.cache
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\obj\Debug\net8.0\ref\EmployeeManagement.dll
+E:\DotNetCore\Qss Assignment\Src\EmployeeManagement\bin\Debug\net8.0\FluentValidation.dll

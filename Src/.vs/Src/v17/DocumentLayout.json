@@ -1,0 +1,338 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DotNetCore\\Qss Assignment\\Src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3F64F8-AE4D-487A-8E07-CE76D8677A9B}|EmployeeManagement\\EmployeeManagement.csproj|e:\\dotnetcore\\qss assignment\\src\\employeemanagement\\fluentsvalidation\\employeevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB3F64F8-AE4D-487A-8E07-CE76D8677A9B}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\fluentsvalidation\\employeevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3F64F8-AE4D-487A-8E07-CE76D8677A9B}|EmployeeManagement\\EmployeeManagement.csproj|e:\\dotnetcore\\qss assignment\\src\\employeemanagement\\enums\\departmentenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB3F64F8-AE4D-487A-8E07-CE76D8677A9B}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\enums\\departmentenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3F64F8-AE4D-487A-8E07-CE76D8677A9B}|EmployeeManagement\\EmployeeManagement.csproj|e:\\dotnetcore\\qss assignment\\src\\employeemanagement\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB3F64F8-AE4D-487A-8E07-CE76D8677A9B}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3F64F8-AE4D-487A-8E07-CE76D8677A9B}|EmployeeManagement\\EmployeeManagement.csproj|e:\\dotnetcore\\qss assignment\\src\\employeemanagement\\registerservices\\registeredcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB3F64F8-AE4D-487A-8E07-CE76D8677A9B}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\registerservices\\registeredcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3F64F8-AE4D-487A-8E07-CE76D8677A9B}|EmployeeManagement\\EmployeeManagement.csproj|e:\\dotnetcore\\qss assignment\\src\\employeemanagement\\contracts\\iemployeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB3F64F8-AE4D-487A-8E07-CE76D8677A9B}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\contracts\\iemployeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3F64F8-AE4D-487A-8E07-CE76D8677A9B}|EmployeeManagement\\EmployeeManagement.csproj|e:\\dotnetcore\\qss assignment\\src\\employeemanagement\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB3F64F8-AE4D-487A-8E07-CE76D8677A9B}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3F64F8-AE4D-487A-8E07-CE76D8677A9B}|EmployeeManagement\\EmployeeManagement.csproj|e:\\dotnetcore\\qss assignment\\src\\employeemanagement\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB3F64F8-AE4D-487A-8E07-CE76D8677A9B}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3F64F8-AE4D-487A-8E07-CE76D8677A9B}|EmployeeManagement\\EmployeeManagement.csproj|e:\\dotnetcore\\qss assignment\\src\\employeemanagement\\registerservices\\globalexceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB3F64F8-AE4D-487A-8E07-CE76D8677A9B}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\registerservices\\globalexceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3F64F8-AE4D-487A-8E07-CE76D8677A9B}|EmployeeManagement\\EmployeeManagement.csproj|e:\\dotnetcore\\qss assignment\\src\\employeemanagement\\employeemanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FB3F64F8-AE4D-487A-8E07-CE76D8677A9B}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\employeemanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3F64F8-AE4D-487A-8E07-CE76D8677A9B}|EmployeeManagement\\EmployeeManagement.csproj|e:\\dotnetcore\\qss assignment\\src\\employeemanagement\\services\\employeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB3F64F8-AE4D-487A-8E07-CE76D8677A9B}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\services\\employeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3F64F8-AE4D-487A-8E07-CE76D8677A9B}|EmployeeManagement\\EmployeeManagement.csproj|e:\\dotnetcore\\qss assignment\\src\\employeemanagement\\responsemodel\\employeeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB3F64F8-AE4D-487A-8E07-CE76D8677A9B}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\responsemodel\\employeeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3F64F8-AE4D-487A-8E07-CE76D8677A9B}|EmployeeManagement\\EmployeeManagement.csproj|e:\\dotnetcore\\qss assignment\\src\\employeemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB3F64F8-AE4D-487A-8E07-CE76D8677A9B}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3F64F8-AE4D-487A-8E07-CE76D8677A9B}|EmployeeManagement\\EmployeeManagement.csproj|e:\\dotnetcore\\qss assignment\\src\\employeemanagement\\db\\empdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB3F64F8-AE4D-487A-8E07-CE76D8677A9B}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\db\\empdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3F64F8-AE4D-487A-8E07-CE76D8677A9B}|EmployeeManagement\\EmployeeManagement.csproj|e:\\dotnetcore\\qss assignment\\src\\employeemanagement\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB3F64F8-AE4D-487A-8E07-CE76D8677A9B}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3F64F8-AE4D-487A-8E07-CE76D8677A9B}|EmployeeManagement\\EmployeeManagement.csproj|e:\\dotnetcore\\qss assignment\\src\\employeemanagement\\registerservices\\dbconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB3F64F8-AE4D-487A-8E07-CE76D8677A9B}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\registerservices\\dbconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3F64F8-AE4D-487A-8E07-CE76D8677A9B}|EmployeeManagement\\EmployeeManagement.csproj|e:\\dotnetcore\\qss assignment\\src\\employeemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FB3F64F8-AE4D-487A-8E07-CE76D8677A9B}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3F64F8-AE4D-487A-8E07-CE76D8677A9B}|EmployeeManagement\\EmployeeManagement.csproj|e:\\dotnetcore\\qss assignment\\src\\employeemanagement\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB3F64F8-AE4D-487A-8E07-CE76D8677A9B}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3F64F8-AE4D-487A-8E07-CE76D8677A9B}|EmployeeManagement\\EmployeeManagement.csproj|e:\\dotnetcore\\qss assignment\\src\\employeemanagement\\employeemanagement.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{FB3F64F8-AE4D-487A-8E07-CE76D8677A9B}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\employeemanagement.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeValidation.cs",
+              "DocumentMoniker": "E:\\DotNetCore\\Qss Assignment\\Src\\EmployeeManagement\\FluentsValidation\\EmployeeValidation.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\FluentsValidation\\EmployeeValidation.cs",
+              "ToolTip": "E:\\DotNetCore\\Qss Assignment\\Src\\EmployeeManagement\\FluentsValidation\\EmployeeValidation.cs",
+              "RelativeToolTip": "EmployeeManagement\\FluentsValidation\\EmployeeValidation.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAD6vxsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T08:34:04.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "E:\\DotNetCore\\Qss Assignment\\Src\\EmployeeManagement\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Controllers\\EmployeeController.cs",
+              "ToolTip": "E:\\DotNetCore\\Qss Assignment\\Src\\EmployeeManagement\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeManagement\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAFsAAADYzMzMzMwtwGIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T09:28:57.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisteredComponent.cs",
+              "DocumentMoniker": "E:\\DotNetCore\\Qss Assignment\\Src\\EmployeeManagement\\RegisterServices\\RegisteredComponent.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\RegisterServices\\RegisteredComponent.cs",
+              "ToolTip": "E:\\DotNetCore\\Qss Assignment\\Src\\EmployeeManagement\\RegisterServices\\RegisteredComponent.cs",
+              "RelativeToolTip": "EmployeeManagement\\RegisterServices\\RegisteredComponent.cs",
+              "ViewState": "AQIAAAcAAABIMzMzMzMbwBsAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T11:22:00.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmployeeServices.cs",
+              "DocumentMoniker": "E:\\DotNetCore\\Qss Assignment\\Src\\EmployeeManagement\\Contracts\\IEmployeeServices.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Contracts\\IEmployeeServices.cs",
+              "ToolTip": "E:\\DotNetCore\\Qss Assignment\\Src\\EmployeeManagement\\Contracts\\IEmployeeServices.cs",
+              "RelativeToolTip": "EmployeeManagement\\Contracts\\IEmployeeServices.cs",
+              "ViewState": "AQIAAAAAAABBMzMzM/MvwAgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T09:37:03.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Department.cs",
+              "DocumentMoniker": "E:\\DotNetCore\\Qss Assignment\\Src\\EmployeeManagement\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Entities\\Department.cs",
+              "ToolTip": "E:\\DotNetCore\\Qss Assignment\\Src\\EmployeeManagement\\Entities\\Department.cs",
+              "RelativeToolTip": "EmployeeManagement\\Entities\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T09:02:01.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\DotNetCore\\Qss Assignment\\Src\\EmployeeManagement\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Entities\\Employee.cs",
+              "ToolTip": "E:\\DotNetCore\\Qss Assignment\\Src\\EmployeeManagement\\Entities\\Employee.cs",
+              "RelativeToolTip": "EmployeeManagement\\Entities\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T09:01:42.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GlobalExceptionHandlerMiddleware.cs",
+              "DocumentMoniker": "E:\\DotNetCore\\Qss Assignment\\Src\\EmployeeManagement\\RegisterServices\\GlobalExceptionHandlerMiddleware.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\RegisterServices\\GlobalExceptionHandlerMiddleware.cs",
+              "ToolTip": "E:\\DotNetCore\\Qss Assignment\\Src\\EmployeeManagement\\RegisterServices\\GlobalExceptionHandlerMiddleware.cs",
+              "RelativeToolTip": "EmployeeManagement\\RegisterServices\\GlobalExceptionHandlerMiddleware.cs",
+              "ViewState": "AQIAABkAAABAZmZmZiYnwCYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T12:25:32.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentEnum.cs",
+              "DocumentMoniker": "E:\\DotNetCore\\Qss Assignment\\Src\\EmployeeManagement\\Enums\\DepartmentEnum.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Enums\\DepartmentEnum.cs",
+              "ToolTip": "E:\\DotNetCore\\Qss Assignment\\Src\\EmployeeManagement\\Enums\\DepartmentEnum.cs",
+              "RelativeToolTip": "EmployeeManagement\\Enums\\DepartmentEnum.cs",
+              "ViewState": "AQIAAAAAAAAOmpmZmRkWwAIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T07:36:19.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeManagement.csproj",
+              "DocumentMoniker": "E:\\DotNetCore\\Qss Assignment\\Src\\EmployeeManagement\\EmployeeManagement.csproj",
+              "RelativeDocumentMoniker": "EmployeeManagement\\EmployeeManagement.csproj",
+              "ToolTip": "E:\\DotNetCore\\Qss Assignment\\Src\\EmployeeManagement\\EmployeeManagement.csproj",
+              "RelativeToolTip": "EmployeeManagement\\EmployeeManagement.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-09T09:27:50.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeServices.cs",
+              "DocumentMoniker": "E:\\DotNetCore\\Qss Assignment\\Src\\EmployeeManagement\\Services\\EmployeeServices.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Services\\EmployeeServices.cs",
+              "ToolTip": "E:\\DotNetCore\\Qss Assignment\\Src\\EmployeeManagement\\Services\\EmployeeServices.cs",
+              "RelativeToolTip": "EmployeeManagement\\Services\\EmployeeServices.cs",
+              "ViewState": "AQIAAAQAAAAHAAAAAIBJwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T09:37:32.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeResponse.cs",
+              "DocumentMoniker": "E:\\DotNetCore\\Qss Assignment\\Src\\EmployeeManagement\\ResponseModel\\EmployeeResponse.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\ResponseModel\\EmployeeResponse.cs",
+              "ToolTip": "E:\\DotNetCore\\Qss Assignment\\Src\\EmployeeManagement\\ResponseModel\\EmployeeResponse.cs",
+              "RelativeToolTip": "EmployeeManagement\\ResponseModel\\EmployeeResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T07:54:32.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DotNetCore\\Qss Assignment\\Src\\EmployeeManagement\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Program.cs",
+              "ToolTip": "E:\\DotNetCore\\Qss Assignment\\Src\\EmployeeManagement\\Program.cs",
+              "RelativeToolTip": "EmployeeManagement\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAmZmZmZkOwBUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T09:16:40.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmpDbContext.cs",
+              "DocumentMoniker": "E:\\DotNetCore\\Qss Assignment\\Src\\EmployeeManagement\\DB\\EmpDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\DB\\EmpDbContext.cs",
+              "ToolTip": "E:\\DotNetCore\\Qss Assignment\\Src\\EmployeeManagement\\DB\\EmpDbContext.cs",
+              "RelativeToolTip": "EmployeeManagement\\DB\\EmpDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:58:49.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "E:\\DotNetCore\\Qss Assignment\\Src\\EmployeeManagement\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\ApiResponse.cs",
+              "ToolTip": "E:\\DotNetCore\\Qss Assignment\\Src\\EmployeeManagement\\ApiResponse.cs",
+              "RelativeToolTip": "EmployeeManagement\\ApiResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:37:32.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DbConfiguration.cs",
+              "DocumentMoniker": "E:\\DotNetCore\\Qss Assignment\\Src\\EmployeeManagement\\RegisterServices\\DbConfiguration.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\RegisterServices\\DbConfiguration.cs",
+              "ToolTip": "E:\\DotNetCore\\Qss Assignment\\Src\\EmployeeManagement\\RegisterServices\\DbConfiguration.cs",
+              "RelativeToolTip": "EmployeeManagement\\RegisterServices\\DbConfiguration.cs",
+              "ViewState": "AQIAAAMAAAAANDMzMzPbvxAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T09:18:25.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\DotNetCore\\Qss Assignment\\Src\\EmployeeManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeManagement\\appsettings.json",
+              "ToolTip": "E:\\DotNetCore\\Qss Assignment\\Src\\EmployeeManagement\\appsettings.json",
+              "RelativeToolTip": "EmployeeManagement\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T12:16:53.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "E:\\DotNetCore\\Qss Assignment\\Src\\EmployeeManagement\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "E:\\DotNetCore\\Qss Assignment\\Src\\EmployeeManagement\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "EmployeeManagement\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T09:29:25.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EmployeeManagement.http",
+              "DocumentMoniker": "E:\\DotNetCore\\Qss Assignment\\Src\\EmployeeManagement\\EmployeeManagement.http",
+              "RelativeDocumentMoniker": "EmployeeManagement\\EmployeeManagement.http",
+              "ToolTip": "E:\\DotNetCore\\Qss Assignment\\Src\\EmployeeManagement\\EmployeeManagement.http",
+              "RelativeToolTip": "EmployeeManagement\\EmployeeManagement.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-09T09:30:44.631Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
